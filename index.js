@@ -8,6 +8,7 @@ const port = process.env.PORT || 5000;
 const chef =require ('./data/chef.json');
 
 
+
 app.use(cors());
 
 
@@ -27,6 +28,9 @@ app.get('/chef/:id', (req, res) => {
     const selectedChef=chef.find(n=> n.id ==id);
     res.send(selectedChef)
   });
+
+ 
+
 
   
   app.listen(port, () => {

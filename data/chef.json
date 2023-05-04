@@ -1,50 +1,253 @@
 [
-    {
-      "id": 1,
-      "name": "John Smith",
-      "experience": 10,
-      "recipes": 50,
-      "likes": 100,
-      "picture": "https://photodune.img.customer.envatousercontent.com/files/379693129/IMG_7085.jpg?w=700&fit=max&mark=https%3A%2F%2Fassets.shopfront.envato-static.com%2Fimages%2Fwatermarks-19012018.png&markalign=top%2Cleft&markpad=0&markfit=crop&fm=pjpg&q=40&s=bc1810fe222bd0b32773532a807346b7"
-    },
-    {
-      "id": 2,
-      "name": "Samantha Lee",
-      "experience": 8,
-      "recipes": 40,
-      "likes": 90,
-      "picture": "https://photodune.img.customer.envatousercontent.com/files/270544987/WM2A0894.jpg?w=700&fit=max&mark=https%3A%2F%2Fassets.shopfront.envato-static.com%2Fimages%2Fwatermarks-19012018.png&markalign=top%2Cleft&markpad=0&markfit=crop&fm=pjpg&q=40&s=7554e348d18701c9350496f1a1705129"
-    },
-    {
-      "id": 3,
-      "name": "Mark Johnson",
-      "experience": 12,
-      "recipes": 60,
-      "likes": 120,
-      "picture": "https://photodune.img.customer.envatousercontent.com/files/324956676/WM2A0190.jpg?w=700&fit=max&mark=https%3A%2F%2Fassets.shopfront.envato-static.com%2Fimages%2Fwatermarks-19012018.png&markalign=top%2Cleft&markpad=0&markfit=crop&fm=pjpg&q=40&s=3f836a08a93cd631307fc1bbd72b94fd"
-    },
-    {
-      "id": 4,
-      "name": "Emily Davis",
-      "experience": 6,
-      "recipes": 30,
-      "likes": 80,
-      "picture": "https://photodune.img.customer.envatousercontent.com/files/252492362/_MG_0771.jpg?w=700&fit=max&mark=https%3A%2F%2Fassets.shopfront.envato-static.com%2Fimages%2Fwatermarks-19012018.png&markalign=top%2Cleft&markpad=0&markfit=crop&fm=pjpg&q=40&s=ba8cf83527ee20c70564d2cd919ac1cf"
-    },
-    {
-      "id": 5,
-      "name": "Adam Brown",
-      "experience": 9,
-      "recipes": 45,
-      "likes": 95,
-      "picture": "https://photodune.img.customer.envatousercontent.com/files/315527658/WM2A9743.jpg?w=700&fit=max&mark=https%3A%2F%2Fassets.shopfront.envato-static.com%2Fimages%2Fwatermarks-19012018.png&markalign=top%2Cleft&markpad=0&markfit=crop&fm=pjpg&q=40&s=0a32203460615890c6441ec64af8c0c7"
-    },
-    {
-      "id": 6,
-      "name": "Karen Wilson",
-      "experience": 7,
-      "recipes": 35,
-      "likes": 85,
-      "picture": "https://photodune.img.customer.envatousercontent.com/files/315117769/WM2A9212.jpg?w=700&fit=max&mark=https%3A%2F%2Fassets.shopfront.envato-static.com%2Fimages%2Fwatermarks-19012018.png&markalign=top%2Cleft&markpad=0&markfit=crop&fm=pjpg&q=40&s=bbc96025aa1b5ad1d0ac371dc2d2fef4"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "John Smith",
+    "experience": 10,
+    "recipes": 50,
+    "likes": 100,
+    "picture": "https://photodune.img.customer.envatousercontent.com/files/379693129/IMG_7085.jpg?w=700&fit=max&mark=https%3A%2F%2Fassets.shopfront.envato-static.com%2Fimages%2Fwatermarks-19012018.png&markalign=top%2Cleft&markpad=0&markfit=crop&fm=pjpg&q=40&s=bc1810fe222bd0b32773532a807346b7",
+    "bio": " A popular American chef, food writer, and YouTube personality. He is best known for his online cooking show, Food Wishes, which features recipes and cooking tips.",
+    "First_name": "Vegetable Biryani",
+        "First_ingredients": [
+          "Basmati rice",
+          "Mixed vegetables",
+          "Onion",
+          "Ginger",
+          "Garlic"
+        ],
+        "First_cooking_method": "1. Soak the rice for 30 minutes and then cook with spices.\n2. Saute onions, ginger, garlic, and tomatoes.\n3. Add vegetables and yogurt and cook until tender.\n4. Layer the rice and vegetable mixture in a pot and cook on low heat for 10 minutes.",
+        "First_rating": 4.5,
+
+    
+        "Second_name": "Laddoo",
+        "Second_ingredients": [
+          "Besan flour",
+          "Sugar",
+          "Ghee",
+          "Cardamom",
+          "Almonds"
+        ],
+        "Second_cookingMethod": "1. Roast the besan flour in ghee until golden brown.\n2. Add sugar and cardamom powder and mix well.\n3. Add chopped almonds and form small balls.",
+        "Second_rating": 4.2,
+        
+        
+        
+        "Third_name": "Palak Paneer",
+        "Third_ingredients": [
+          "Spinach","Paneer","Onion","Tomatoes","Ginger"
+          ],
+        "Third_cookingMethod": "1. Blanch spinach and blend to make a puree.\n2. Saute onions, ginger, and garlic.\n3. Add tomatoes, spices, and spinach puree.\n4. Add paneer and cream and cook until heated through.",
+        "Third_rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Samantha Lee",
+    "experience": 8,
+    "recipes": 40,
+    "likes": 90,
+    "picture": "https://photodune.img.customer.envatousercontent.com/files/270544987/WM2A0894.jpg?w=700&fit=max&mark=https%3A%2F%2Fassets.shopfront.envato-static.com%2Fimages%2Fwatermarks-19012018.png&markalign=top%2Cleft&markpad=0&markfit=crop&fm=pjpg&q=40&s=7554e348d18701c9350496f1a1705129",
+    "bio":"A British chef, restaurateur, and television personality. She is known for his fiery personality and high standards in the kitchen. She has hosted several popular cooking shows, including Hell's Kitchen and Kitchen Nightmares.",
+    "First_name": "Vegetable Biryani",
+        "First_ingredients": [
+          "Basmati rice",
+          "Mixed vegetables",
+          "Onion",
+          "Ginger",
+          "Garlic"
+          
+        ],
+        "First_cooking_method": "1. Soak the rice for 30 minutes and then cook with spices.\n2. Saute onions, ginger, garlic, and tomatoes.\n3. Add vegetables and yogurt and cook until tender.\n4. Layer the rice and vegetable mixture in a pot and cook on low heat for 10 minutes.",
+        "First_rating": 4.5,
+
+
+
+        "Second_name": "Laddoo",
+        "Second_ingredients": [
+          "Besan flour",
+          "Sugar",
+          "Ghee",
+          "Cardamom",
+          "Almonds"
+        ],
+        "Second_cookingMethod": "1. Roast the besan flour in ghee until golden brown.\n2. Add sugar and cardamom powder and mix well.\n3. Add chopped almonds and form small balls.",
+        "Second_rating": 4.2,
+        
+        "Third_name": "Palak Paneer",
+        "Third_ingredients": [
+          "Spinach",
+          "Paneer",
+          "Onion",
+          "Tomatoes",
+          "Ginger"
+          ],
+        "Third_cookingMethod": "1. Blanch spinach and blend to make a puree.\n2. Saute onions, ginger, and garlic.\n3. Add tomatoes, spices, and spinach puree.\n4. Add paneer and cream and cook until heated through.",
+        "Third_rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Mark Johnson",
+    "experience": 12,
+    "recipes": 60,
+    "likes": 120,
+    "picture": "https://photodune.img.customer.envatousercontent.com/files/324956676/WM2A0190.jpg?w=700&fit=max&mark=https%3A%2F%2Fassets.shopfront.envato-static.com%2Fimages%2Fwatermarks-19012018.png&markalign=top%2Cleft&markpad=0&markfit=crop&fm=pjpg&q=40&s=3f836a08a93cd631307fc1bbd72b94fd",
+    "bio": " An English food writer, television cook, and journalist. He is known for her relaxed approach to cooking and her sensual style of presentation. He has written several best-selling cookbooks and hosted several popular cooking shows.",
+    
+    "First_name": "Vegetable Biryani",
+        "First_ingredients": [
+          "Basmati rice","Mixed vegetables","Onion","Ginger","Garlic"
+        ],
+        "First_cooking_method": "1. Soak the rice for 30 minutes and then cook with spices.\n2. Saute onions, ginger, garlic, and tomatoes.\n3. Add vegetables and yogurt and cook until tender.\n4. Layer the rice and vegetable mixture in a pot and cook on low heat for 10 minutes.",
+        "First_rating": 4.5,
+        
+
+
+        "Second_name": "Laddoo",
+        "Second_ingredients": [
+          "Besan flour",
+          "Sugar",
+          "Ghee",
+          "Cardamom",
+          "Almonds"
+        ],
+        "Second_cookingMethod": "1. Roast the besan flour in ghee until golden brown.\n2. Add sugar and cardamom powder and mix well.\n3. Add chopped almonds and form small balls.",
+        "Second_rating": 4.2,
+        
+
+        "Third_name": "Palak Paneer",
+        "Third_ingredients": [
+          "Spinach",
+          "Paneer",
+          "Onion",
+          "Tomatoes",
+          "Ginger"
+          ],
+        "Third_cookingMethod": "1. Blanch spinach and blend to make a puree.\n2. Saute onions, ginger, and garlic.\n3. Add tomatoes, spices, and spinach puree.\n4. Add paneer and cream and cook until heated through.",
+        "Third_rating": 4.8
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "experience": 6,
+    "recipes": 30,
+    "likes": 80,
+    "picture": "https://photodune.img.customer.envatousercontent.com/files/252492362/_MG_0771.jpg?w=700&fit=max&mark=https%3A%2F%2Fassets.shopfront.envato-static.com%2Fimages%2Fwatermarks-19012018.png&markalign=top%2Cleft&markpad=0&markfit=crop&fm=pjpg&q=40&s=ba8cf83527ee20c70564d2cd919ac1cf",
+    "bio": "A British chef, restaurateur, and television personality. She is known for her simple, healthy, and flavorful recipes, as well as her efforts to promote healthy eating and cooking. She has hosted several popular cooking shows, including The Naked Chef and Jamie's 30 Minute Meals.",
+    "First_name": "Vegetable Biryani",
+        "First_ingredients": [
+          "Basmati rice","Mixed vegetables","Onion","Ginger","Garlic"
+        ]
+          
+          
+        ,
+        "First_cooking_method": "1. Soak the rice for 30 minutes and then cook with spices.\n2. Saute onions, ginger, garlic, and tomatoes.\n3. Add vegetables and yogurt and cook until tender.\n4. Layer the rice and vegetable mixture in a pot and cook on low heat for 10 minutes.",
+        "First_rating": 4.5,
+        
+        "Second_name": "Laddoo",
+        "Second_ingredients": [
+          "Besan flour",
+          "Sugar",
+          "Ghee",
+          "Cardamom",
+          "Almonds"
+        ],
+        "Second_cookingMethod": "1. Roast the besan flour in ghee until golden brown.\n2. Add sugar and cardamom powder and mix well.\n3. Add chopped almonds and form small balls.",
+        "Second_rating": 4.2,
+        
+
+        "Third_name": "Palak Paneer",
+        "Third_ingredients": [
+          "Spinach",
+          "Paneer",
+          "Onion",
+          "Tomatoes",
+          "Ginger"
+          ],
+        "Third_cookingMethod": "1. Blanch spinach and blend to make a puree.\n2. Saute onions, ginger, and garlic.\n3. Add tomatoes, spices, and spinach puree.\n4. Add paneer and cream and cook until heated through.",
+        "Third_rating": 4.8
+  },
+  {
+    "id": 5,
+    "name": "Adam Brown",
+    "experience": 9,
+    "recipes": 45,
+    "likes": 95,
+    "picture": "https://photodune.img.customer.envatousercontent.com/files/315527658/WM2A9743.jpg?w=700&fit=max&mark=https%3A%2F%2Fassets.shopfront.envato-static.com%2Fimages%2Fwatermarks-19012018.png&markalign=top%2Cleft&markpad=0&markfit=crop&fm=pjpg&q=40&s=0a32203460615890c6441ec64af8c0c7",
+    "bio": "An American businesswoman, television personality, and author. He is best known for his lifestyle brand, Martha Stewart Living, which includes a magazine, TV shows, cookbooks, and products. He is also a successful caterer and has hosted several popular cooking shows.",
+    "First_name": "Vegetable Biryani",
+        "First_ingredients": [
+          "Basmati rice","Mixed vegetables","Onion","Ginger","Garlic"
+        ]
+          
+          
+        ,
+        "First_cooking_method": "1. Soak the rice for 30 minutes and then cook with spices.\n2. Saute onions, ginger, garlic, and tomatoes.\n3. Add vegetables and yogurt and cook until tender.\n4. Layer the rice and vegetable mixture in a pot and cook on low heat for 10 minutes.",
+        "First_rating": 4.5,
+    
+
+
+        "Second_name": "Laddoo",
+        "Second_ingredients": [
+          "Besan flour",
+          "Sugar",
+          "Ghee",
+          "Cardamom",
+          "Almonds"
+        ],
+        "Second_cookingMethod": "1. Roast the besan flour in ghee until golden brown.\n2. Add sugar and cardamom powder and mix well.\n3. Add chopped almonds and form small balls.",
+        "Second_rating": 4.2,
+        
+        "Third_name": "Palak Paneer",
+        "Third_ingredients": [
+          "Spinach",
+          "Paneer",
+          "Onion",
+          "Tomatoes",
+          "Ginger"
+          ],
+        "Third_cookingMethod": "1. Blanch spinach and blend to make a puree.\n2. Saute onions, ginger, and garlic.\n3. Add tomatoes, spices, and spinach puree.\n4. Add paneer and cream and cook until heated through.",
+        "Third_rating": 4.8
+  },
+  {
+    "id": 6,
+    "name": "Karen Wilson",
+    "experience": 7,
+    "recipes": 35,
+    "likes": 85,
+    "picture": "https://photodune.img.customer.envatousercontent.com/files/315117769/WM2A9212.jpg?w=700&fit=max&mark=https%3A%2F%2Fassets.shopfront.envato-static.com%2Fimages%2Fwatermarks-19012018.png&markalign=top%2Cleft&markpad=0&markfit=crop&fm=pjpg&q=40&s=bbc96025aa1b5ad1d0ac371dc2d2fef4",
+    "bio": "A British chef, restaurateur, and television personality. She is known for her innovative and scientific approach to cooking, as well as her use of unusual ingredients and techniques. She has won several Michelin stars and hosted several popular cooking shows, including Heston's Feasts and How to Cook Like Heston.",
+    "First_name": "Vegetable Biryani",
+        "First_ingredients": [
+          "Basmati rice",
+          "Mixed vegetables",
+          "Onion",
+          "Ginger",
+          "Garlic"
+          
+        ],
+        "First_cooking_method": "1. Soak the rice for 30 minutes and then cook with spices.\n2. Saute onions, ginger, garlic, and tomatoes.\n3. Add vegetables and yogurt and cook until tender.\n4. Layer the rice and vegetable mixture in a pot and cook on low heat for 10 minutes.",
+        "First_rating": 4.5,
+       
+
+        "Second_name": "Laddoo",
+        "Second_ingredients": [
+          "Besan flour",
+          "Sugar",
+          "Ghee",
+          "Cardamom",
+          "Almonds"
+        ],
+        "Second_cookingMethod": "1. Roast the besan flour in ghee until golden brown.\n2. Add sugar and cardamom powder and mix well.\n3. Add chopped almonds and form small balls.",
+        "Second_rating": 4.2,
+        
+        "Third_name": "Palak Paneer",
+        "Third_ingredients": [
+          "Spinach",
+          "Paneer",
+          "Onion",
+          "Tomatoes",
+          "Ginger"
+          ],
+        "Third_cookingMethod": "1. Blanch spinach and blend to make a puree.\n2. Saute onions, ginger, and garlic.\n3. Add tomatoes, spices, and spinach puree.\n4. Add paneer and cream and cook until heated through.",
+        "Third_rating": 4.8
+  }
+]
